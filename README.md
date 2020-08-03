@@ -13,7 +13,7 @@ Today we'll get interactive & learn how to respond to prompts in that same box.
   - [x] `Scanner` is another Java variable type (e.g. `String`)
   - [x] `System.in` is another method (e.g.`System.out`)
   
-###### We use them like this 
+We use them like this &nbsp;:arrow_down:
 ```
   Scanner myScanner = new Scanner(System.in);
   System.out.println(myScanner.nextLine());
