@@ -23,7 +23,8 @@ Watch [this](https://youtube.com)
 
 ### :thought_balloon:&nbsp; Noticing themes
   - [x] `System.out.println("An argument")` takes an _argument_
-  - [x] So does `new Scanner(System.in)`\
+  - [x] So does `new Scanner(System.in)`
+  
 Some similarties here
   1. The last item in the string of commands tends to take `()` which usually has an _argument_ between these `()`
   2. The things that end in `()` tend to do things (i.e. print, read, etc.)
