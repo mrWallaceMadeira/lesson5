@@ -31,4 +31,4 @@ Some similarties here
 Both `println()` and `nextLine()` are types of _methods_
 
 ### C'est fini
-Entry ticket [here]()
+Entry ticket [here](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUM0xIMUo3V1BBU05ZSlNVUjE5WExTQ1FURyQlQCN0PWcu)
