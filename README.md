@@ -8,6 +8,8 @@ Today we'll get interactive & learn how to respond to prompts in that same box.
   - [x] Reading input requires two things
     1. `Scanner`
     2. `System.in`
+
+### `Scanner` + `System.in` = &nbsp;:speech_balloon:
     
    
 
