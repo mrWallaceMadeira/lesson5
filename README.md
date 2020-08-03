@@ -9,7 +9,14 @@ Today we'll get interactive & learn how to respond to prompts in that same box.
     1. `Scanner`
     2. `System.in`
 
-### `Scanner` + `System.in` = &nbsp;:speech_balloon:
-    
+### `Scanner` + `System.in` + `System.out` = your new quarantine friend
+  - [x] `Scanner` is another Java variable type (e.g. `String`)
+  - [x] `System.in` is another method (e.g.`System.out`)
+  
+###### We use them like this 
+```
+  Scanner myScanner = new Scanner(System.in);
+  System.out.println(myScanner.nextLine());
+```
    
 
