@@ -21,11 +21,15 @@ We use them like this &nbsp;:arrow_down:
 ### :hand:&nbsp; Stop!
 Watch [this](https://youtube.com)
 
-### :thought_balloon:&nbsp; Noticing themes
+### :thought_balloon:&nbsp; Notice
   - [x] `System.out.println("An argument")` takes an _argument_
   - [x] So does `new Scanner(System.in)`
+  - [x] But `myScanner.nextLine()` doesn't...
   
-Some similarties here
+Some differences
+  1. `Scanner` is a variable
+    - Variables can also take arguments 
+Some similarties
   1. The last item in the string of commands tends to take `()` which usually has an _argument_ between these `()`
   2. The things that end in `()` tend to do things (i.e. print, read, etc.)
 Both `println()` and `nextLine()` are types of _methods_
