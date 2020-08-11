@@ -18,8 +18,6 @@ We use them like this &nbsp;:arrow_down:
   Scanner myScanner = new Scanner(System.in);
   System.out.println(myScanner.nextLine());
 ```
-### :hand:&nbsp; Stop!
-Watch [this](https://youtube.com)
 
 ### :thought_balloon:&nbsp; Notice
   - [x] `System.out.println("An argument")` takes an _argument_
@@ -33,6 +31,9 @@ Some similarties
   1. The last item in the string of commands tends to take `()` which usually has an _argument_ between these `()`
   2. The things that end in `()` tend to do things (i.e. print, read, etc.)
 Both `println()` and `nextLine()` are types of _methods_
+
+### :hand:&nbsp; Stop!
+Watch [this](https://youtube.com)
 
 ### C'est fini
 Entry ticket [here](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUM0xIMUo3V1BBU05ZSlNVUjE5WExTQ1FURyQlQCN0PWcu)
