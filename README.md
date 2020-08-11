@@ -33,7 +33,7 @@ Some similarties
 Both `println()` and `nextLine()` are types of _methods_
 
 ### :hand:&nbsp; Stop!
-Watch [this](https://youtube.com)
+Watch [this](https://themadeiraschool.sharepoint.com/sites/IntrotoCS/Shared%20Documents/General/Videos/lesson5Video1.mov)
 
 ### C'est fini
 Entry ticket [here](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUM0xIMUo3V1BBU05ZSlNVUjE5WExTQ1FURyQlQCN0PWcu)
