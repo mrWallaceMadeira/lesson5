@@ -1,4 +1,4 @@
-# Lesson 2: Talking to yourself
+# Talking to yourself
 
 Yesterday we covered printing to the console (i.e. the little box at the bottom of IntelliJ).\
 Today we'll get interactive & learn how to respond to prompts in that same box.
